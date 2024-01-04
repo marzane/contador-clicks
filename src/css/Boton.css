@@ -1,0 +1,19 @@
+.boton-contador {
+    background-color: blueviolet;
+    padding: 1em;
+    border: 2px solid white;
+    color: white;
+    margin-bottom: 1em;
+}
+
+.boton-contador:active {
+    background-color: black;
+}
+
+.boton-click {
+    background-color: red;
+}
+
+.boton-reset {
+    background-color: blueviolet;
+}
